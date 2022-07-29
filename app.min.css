@@ -113,7 +113,7 @@ body#index section#opening{
     z-index:9999;
     color:#122617;
     padding:10rem 0;
-    
+    background-image:linear-gradient(180deg, rgba(18, 38, 23, 0.7) 0%, rgba(18, 38, 23, 0.7) 100%),url("../img/bg/header.jpg");
     background-size:cover,cover;
     background-repeat:no-repeat;
     background-position:center,center;
@@ -128,8 +128,7 @@ body#index section#opening{
     justify-content:center
 }
 body#index header#header{
-    padding:0rem 0;
-    margin-top:-25px
+    padding:10rem 0;
     background-image:linear-gradient(180deg, rgba(18, 38, 23, 0.7) 0%, rgba(18, 38, 23, 0.7) 100%),url("../img/bg/header.jpg");
     background-size:cover,cover;
     background-repeat:no-repeat;
